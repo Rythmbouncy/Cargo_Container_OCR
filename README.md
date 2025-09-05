@@ -20,9 +20,9 @@ A Streamlit-based application to extract and clean cargo container IDs from imag
 
 ## Sample
 
-<img src="app/Screenshot 2025-09-05 at 4.35.29 PM.png" alt="Alt text" width="800" height="600"/>
+<img src="app/Screenshot 2025-09-05 at 4.35.29 PM.png" alt="Alt text" width="1000" height="800"/>
 
-<img src="app/Screenshot 2025-09-05 at 4.36.23 PM.png" alt="Alt text" width="800" height="600"/>
+<img src="app/Screenshot 2025-09-05 at 4.36.23 PM.png" alt="Alt text" width="1000" height="800"/>
 
 
 ## Installation
@@ -30,7 +30,9 @@ A Streamlit-based application to extract and clean cargo container IDs from imag
 1. Clone the repository:
 
 bash
+
 git clone https://github.com/your-username/cargo-container-ocr.git
+
 cd cargo-container-ocr
 
 2. Create a virtual environment (optional but recommended):
@@ -53,6 +55,7 @@ AZURE_OPENAI_API_VERSION=2025-01-01-preview
 ## Usage
 
 bash
+
 streamlit run app.py
 
 1. Upload one or more cargo container images.
