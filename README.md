@@ -20,9 +20,9 @@ A Streamlit-based application to extract and clean cargo container IDs from imag
 
 ## Sample
 
-<img src="app/Screenshot 2025-09-05 at 4.35.29 PM.png" alt="Alt text" width="400"/>
+<img src="app/Screenshot 2025-09-05 at 4.35.29 PM.png" alt="Alt text" width="600" height="400"/>
 
-<img src="app/Screenshot 2025-09-05 at 4.36.23 PM.png" alt="Alt text" width="400"/>
+<img src="app/Screenshot 2025-09-05 at 4.36.23 PM.png" alt="Alt text" width="600" height="400"/>
 
 
 ## Installation
